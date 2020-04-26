@@ -1,0 +1,22 @@
+.button-style {
+	margin-top: 1%;
+  --background:#1abc9c;
+  --background-hover-opacity:0.2;
+}
+.input-box {
+	margin-top: 1%;
+	color: white;
+	border: 2px solid #1abc9c;
+}
+.color-white {
+	color: white;
+}
+.vertical-align-content > *
+{
+     display: flex!important;
+     align-content: center!important;
+     align-items: center!important;
+}
+.margin-top{
+	margin-top: 5%;
+}
